@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cosmanarcis/react-shopping-cart.git/static/css/main.ea587ab2.chunk.css",
+    "main.js": "/cosmanarcis/react-shopping-cart.git/static/js/main.ca1bcf52.chunk.js",
+    "main.js.map": "/cosmanarcis/react-shopping-cart.git/static/js/main.ca1bcf52.chunk.js.map",
+    "runtime-main.js": "/cosmanarcis/react-shopping-cart.git/static/js/runtime-main.2c8a4f7d.js",
+    "runtime-main.js.map": "/cosmanarcis/react-shopping-cart.git/static/js/runtime-main.2c8a4f7d.js.map",
+    "static/js/2.6794a7d1.chunk.js": "/cosmanarcis/react-shopping-cart.git/static/js/2.6794a7d1.chunk.js",
+    "static/js/2.6794a7d1.chunk.js.map": "/cosmanarcis/react-shopping-cart.git/static/js/2.6794a7d1.chunk.js.map",
+    "index.html": "/cosmanarcis/react-shopping-cart.git/index.html",
+    "static/css/main.ea587ab2.chunk.css.map": "/cosmanarcis/react-shopping-cart.git/static/css/main.ea587ab2.chunk.css.map",
+    "static/js/2.6794a7d1.chunk.js.LICENSE.txt": "/cosmanarcis/react-shopping-cart.git/static/js/2.6794a7d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c8a4f7d.js",
+    "static/js/2.6794a7d1.chunk.js",
+    "static/css/main.ea587ab2.chunk.css",
+    "static/js/main.ca1bcf52.chunk.js"
+  ]
+}
