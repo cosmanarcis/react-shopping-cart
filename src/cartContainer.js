@@ -58,7 +58,7 @@ const CartContainer = () => {
                     <div className="cart__item-image">
                     <img
                     src={item.image}
-                    width="350"
+                    width="400"
                     alt="nothing"
                     />
                     </div>
